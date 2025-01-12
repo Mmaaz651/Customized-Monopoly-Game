@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="upei.project.RailRoadTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-11-28T05:00:21" hostname="DESKTOP-7512B33" time="0.07">
+  <properties/>
+  <testcase name="testPayCharge()" classname="upei.project.RailRoadTest" time="0.034"/>
+  <testcase name="testRailRoadConstructor()" classname="upei.project.RailRoadTest" time="0.004"/>
+  <testcase name="testRailRoadIsPlaceInstance()" classname="upei.project.RailRoadTest" time="0.006"/>
+  <testcase name="testGetCharge()" classname="upei.project.RailRoadTest" time="0.005"/>
+  <testcase name="testPayCharge_multiplePayments()" classname="upei.project.RailRoadTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
