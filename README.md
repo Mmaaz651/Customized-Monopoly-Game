@@ -1,3 +1,7 @@
+# 2024F CS2910 Project Report
+**Group Members**
+1. Muhammad Maaz
+   
 # Summary of Game
 The game implemented is a Custom Monopoly game, inspired by the classic board game Monopoly. The objective of the game is to accumulate the highest wealth, which includes cash and the value of owned properties with constructed storeys (exp single storey, double storey). Players navigate a circular board, represented using a linked list, by rolling a single six-sided dice. Properties can be purchased and developed to generate income, while special locations like taxes or utilities impose penalties. The game is turn-based, with 20 turns per player (which can be changed). Rules are simplified for clarity and custom features are introduced for variety. Each player has an initial balance of $1500.
 
